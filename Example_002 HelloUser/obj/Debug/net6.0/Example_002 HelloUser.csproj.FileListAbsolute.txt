@@ -1,0 +1,15 @@
+C:\Users\HOME\Desktop\Examples\Example_002 HelloUser\bin\Debug\net6.0\Example_002 HelloUser.exe
+C:\Users\HOME\Desktop\Examples\Example_002 HelloUser\bin\Debug\net6.0\Example_002 HelloUser.deps.json
+C:\Users\HOME\Desktop\Examples\Example_002 HelloUser\bin\Debug\net6.0\Example_002 HelloUser.runtimeconfig.json
+C:\Users\HOME\Desktop\Examples\Example_002 HelloUser\bin\Debug\net6.0\Example_002 HelloUser.dll
+C:\Users\HOME\Desktop\Examples\Example_002 HelloUser\bin\Debug\net6.0\Example_002 HelloUser.pdb
+C:\Users\HOME\Desktop\Examples\Example_002 HelloUser\obj\Debug\net6.0\Example_002 HelloUser.csproj.AssemblyReference.cache
+C:\Users\HOME\Desktop\Examples\Example_002 HelloUser\obj\Debug\net6.0\Example_002 HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Desktop\Examples\Example_002 HelloUser\obj\Debug\net6.0\Example_002 HelloUser.AssemblyInfoInputs.cache
+C:\Users\HOME\Desktop\Examples\Example_002 HelloUser\obj\Debug\net6.0\Example_002 HelloUser.AssemblyInfo.cs
+C:\Users\HOME\Desktop\Examples\Example_002 HelloUser\obj\Debug\net6.0\Example_002 HelloUser.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Examples\Example_002 HelloUser\obj\Debug\net6.0\Example_002 HelloUser.dll
+C:\Users\HOME\Desktop\Examples\Example_002 HelloUser\obj\Debug\net6.0\refint\Example_002 HelloUser.dll
+C:\Users\HOME\Desktop\Examples\Example_002 HelloUser\obj\Debug\net6.0\Example_002 HelloUser.pdb
+C:\Users\HOME\Desktop\Examples\Example_002 HelloUser\obj\Debug\net6.0\Example_002 HelloUser.genruntimeconfig.cache
+C:\Users\HOME\Desktop\Examples\Example_002 HelloUser\obj\Debug\net6.0\ref\Example_002 HelloUser.dll
